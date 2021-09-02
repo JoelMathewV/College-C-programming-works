@@ -11,6 +11,6 @@ int main(){
     int n;
     printf("enter the no: ");
     scanf("%d",&n);
-    printf("%d",factorial(n));
+    printf("%d \n",factorial(n));
     return 0;
 }
